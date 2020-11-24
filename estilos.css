@@ -1,0 +1,52 @@
+body
+{
+    width: 80%;
+    margin: auto;
+}
+
+nav a
+{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    display:inline;
+    margin-top: 2em;
+    padding-top: 2em;
+    padding-left:5px;
+    padding-right:20%;
+   background-color:darkgrey;
+}
+
+figure.uno
+{
+    text-align: center;
+    -webkit-transform: rotate(10deg);
+    border: solid black;
+    margin-top: auto;
+  
+}
+
+figure.dos
+{
+    text-align: center;
+    -webkit-transform: rotate(20deg);
+    border: solid black;
+    margin-top: auto;
+}
+
+figure.tres
+{
+    text-align: center;
+    -webkit-transform: rotate(30deg);
+    border: solid black;
+    margin-top: auto;
+    margin
+}
+
+figure.cuatro
+{
+    text-align: center;
+    -webkit-transform: rotate(40deg);
+    border: solid black;
+    margin-top: auto;
+}
